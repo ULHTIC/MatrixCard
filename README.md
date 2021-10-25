@@ -54,6 +54,7 @@ O cartão matriz (físico) tem o seguinte aspecto:
 
 [logo]: cartao_matriz.jpg "exemplo de cartão matriz"
 
+Neste exemplo do Montepio o cartão tem 9 colunas, contudo, no caso deste programa tem apenas 8 colunas.
 
 ### Exemplos de execução do programa:
 ```bash
