@@ -49,7 +49,10 @@ Em resumo a definição das mensagens de erro é:
 Encontram-se neste repositório dois ficheiros exemplo [matrix.txt](matrix.txt) e [matrix.dat](matrix.dat), codificados em texto e binário, respectivamente.
 
 O cartão matriz (físico) tem o seguinte aspecto:
-![cartao_matriz](cartao_matriz.jpg "exemplo de cartão matriz")
+
+![cartao_matriz][logo]
+
+[logo]: cartao_matriz.jpg "exemplo de cartão matriz"
 
 
 ### Exemplos de execução do programa:
